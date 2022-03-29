@@ -8,14 +8,30 @@
   font-family: "Kanit", sans-serif;
 }
 
-.row {
+/* .row {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-}
+} */
 
 /*
 
 LANDING PAGE
 
 */
+
+.showcase {
+  position: absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #111;
+  color: #fff;
+}
+
+.showcase header {
+}
