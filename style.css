@@ -92,6 +92,20 @@ LANDING PAGE
   max-width: 700px;
 }
 
+.landing__free {
+  cursor: pointer;
+}
+
+.landing__pricing--policy {
+  cursor: pointer;
+}
+
+/*
+
+MEDIA 
+
+*/
+
 @media (max-width: 768px) {
   .showcase,
   .showcase header {
