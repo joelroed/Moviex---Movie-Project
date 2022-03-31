@@ -140,7 +140,7 @@ MOVIES
 
 */
 
-.movies {
+#movies {
   padding: 96px 0;
 }
 
@@ -151,15 +151,15 @@ MOVIES
   font-weight: 800;
 }
 
-.movies__form {
+.search__wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 0.25rem;
 }
 
-.movies__input {
-  background-color: #242424;
-  color: #fff;
+input {
+  font-size: 1rem;
 }
 
 /*
