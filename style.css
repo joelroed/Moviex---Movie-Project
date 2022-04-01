@@ -162,6 +162,11 @@ input {
   font-size: 1rem;
 }
 
+.search__result--filter {
+  display: flex;
+  justify-content: space-around;
+}
+
 /*
 
 MEDIA 
