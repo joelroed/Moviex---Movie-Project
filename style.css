@@ -99,6 +99,8 @@ LANDING PAGE
   cursor: pointer;
 }
 
+
+
 .scroll {
   position: absolute;
   bottom: 20px;
@@ -142,6 +144,7 @@ MOVIES
 
 #movies {
   padding: 96px 0;
+  
 }
 
 .movies__title {
