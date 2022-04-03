@@ -183,6 +183,7 @@ input {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  padding: 56px 0;
 }
 
 .movie__wrapper {
@@ -190,6 +191,10 @@ input {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  border-color: rgb(28,28,36, 0.1);
+  border-width: 1px;
+  padding: 24px;
+  border-radius: 10% / 50%;
 }
 
 
