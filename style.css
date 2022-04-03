@@ -178,19 +178,30 @@ input {
   padding: 120px 0;
 }
 
+.movie__wrapper--general {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 .movie__wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  flex-wrap: wrap;
 }
+
+
 
 .movie__poster {
   width: 225px;
   height: 350px;
 }
 
+.fa-imdb {
+  font-size: 24px;
+}
 
 /*
 
