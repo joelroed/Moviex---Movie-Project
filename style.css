@@ -180,10 +180,11 @@ input {
 
 .movie__wrapper--general {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   padding: 56px 0;
+  width: 100%;
 }
 
 .movie__wrapper {
@@ -195,6 +196,7 @@ input {
   border-width: 1px;
   padding: 24px;
   border-radius: 10% / 50%;
+  width: (100% / 3);
 }
 
 
